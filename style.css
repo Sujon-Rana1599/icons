@@ -1,0 +1,152 @@
+.main{
+
+}
+
+.icon{
+    font-size: 69px;
+    padding: 10px;
+    color: darkblue;
+    text-align: center;
+    
+}
+.icon ul{
+
+}
+
+.icon ul li{
+    list-style: none;
+    padding: 10px;
+    display: inline-block;
+    margin: 36px 8px;
+    padding: 25px 33px;
+}
+
+.icon ul li a{
+    font-size: 69px;
+    padding: 10px;
+    color: darkblue;
+    text-align: center;
+}
+.icon ul li:hover{
+    background: rgba(86, 156, 236, 0.527);
+    border-radius: 7px;
+    color: white;
+}
+.fas.fa-address-card{
+    color: hotpink;
+}
+.fab.fa-facebook-square{
+color: blue;
+}
+.fas.fa-envelope-open-text{
+color: rgb(107, 93, 91);
+}
+.fas.fa-at{
+color: rgb(138, 112, 11);
+}
+.fab.fa-google{
+color: orange;
+}
+.fas.fa-address-book{
+    color:purple;
+}
+.fas.fa-outdent{
+    color: rgb(102, 45, 4);
+}
+.fab.fa-reddit-alien{
+    color: rgb(5, 151, 5);
+}
+.fab.fa-adversal{
+    color: rgb(114, 201, 230);
+}
+.fas.fa-adjust{
+    color: mediumaquamarine;
+}
+.fas.fa-user-lock{
+    color: lightslategray;
+}
+.fab.fa-amazon-pay{
+    color: rgb(53, 143, 228);
+}
+.fas.fa-ambulance{
+    color: rgb(52, 177, 164);
+}
+.fab.fa-apple{
+    color: rgb(243, 66, 34);
+}
+.fas.fa-arrow-circle-down{
+    color: rgb(90, 28, 90);
+}
+.fas.fa-anchor{
+    color: rgb(69, 100, 8);
+}
+.fas.fa-file-download{
+    color: teal;
+}
+.fas.fa-cart-arrow-down{
+    color: rgb(133, 125, 125);
+}
+.fas.fa-file-archive{
+color: rgb(6, 196, 196);
+}
+.fas.fa-bell-slash{
+    color: goldenrod;
+}
+.far.fa-laugh-wink{
+    color: rgb(201, 201, 5);
+}
+.fab.fa-twitter-square{
+    color: royalblue;
+}
+.fab.fa-instagram-square{
+    color:rgb(214, 97, 117)
+}
+.fab.fa-youtube{
+    color: red;
+}
+.fas.fa-phone-square-alt{
+    color: royalblue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
